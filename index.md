@@ -1,8 +1,3 @@
----
-layout: default
-title: Kia Hieng Tan — Portfolio
----
-
 # Kia Hieng Tan
 
 Welcome to my portfolio site!
