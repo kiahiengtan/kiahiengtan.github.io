@@ -14,9 +14,10 @@ h1, h2, h3 {
 }
 
 .underline {
-    text-decoration: underline;
+    text-decoration-line: underline !important;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
+    text-decoration-color: #333 !important;
 }
 
 .section-title {
